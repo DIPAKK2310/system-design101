@@ -1,0 +1,11 @@
+flowchart TD
+    subgraph HLD Overview
+        A[User Mobile App] --> B[Load Balancer]
+        B --> C[API Gateway]
+        C --> D[Post Service]
+        D --> E[<b>Cache</b><br>Redis]
+        D --> F[<b>Primary Database</b><br>PostgreSQL]
+        D -- Async Message --> G[<b>Message Queue</b><br>Kafka]
+        G --> H[Notification Service]
+        H --> I[<b>Object Storage</b><br>S3 for Images]
+    end

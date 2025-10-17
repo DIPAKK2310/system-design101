@@ -21,3 +21,17 @@ The goal is to create a well-organized and efficient structure that meets the in
 - It's for the specialized technicians who will actually build each component.
 
 ![SVG image](/01-introduction//public/deepseek_mermaid_20251013_fbdd4d.svg)
+
+## Folder Structure :-
+```bash
+SD-101/
+├── 01-Introduction/
+├── 02-Diagrams/
+├── 03-Case-Studies/
+├── 04-Patterns/
+├── 05-Cheatsheets/
+├── 06-Examples/
+├── 07-Interview/
+├── 08-Projects/
+└── 09-Resources/
+```

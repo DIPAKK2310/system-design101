@@ -5,18 +5,25 @@
 
 # Topics
 
-  # Fundamentals:
-    - Serveless vs Serverfull
-    - Horizontal vs Veritcal Scaling
-    - What are threads ?
-    - What are pages ?
-    - How does the internet works ?
-  # Databases : 
-    -
-    -
-    -
-    -
-## Journey of system design
+  ## Fundamentals:
+  - Serveless vs Serverfull
+  - Horizontal vs Veritcal Scaling
+  - What are threads ?
+  - What are pages ?
+  - How does the internet works ?
+## Databases : 
+  - SQL vs NoSQL DBs
+  - In Memory Dbs(Redis)
+  - Data Replication & Migration
+  - Data partitioning 
+  - Sharding
+## Consistency & Availability :
+  - Data Consistency & its levels
+  - Isolation & its levels
+  - CAP Theorem
+## Cache :
+  -
+# Journey of system design
   
 # Folder structure :
 

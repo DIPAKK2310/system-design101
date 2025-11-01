@@ -1,7 +1,21 @@
 # System-Design 101
   This is a guide to learn system design and best resources for it.
   system design is like building a building .
-  So to learn it work or build brick by brick one step at a time
+  So to learn it work or build brick by brick one step at a time.
+
+# Topics
+
+  # Fundamentals:
+    - Serveless vs Serverfull
+    - Horizontal vs Veritcal Scaling
+    - What are threads ?
+    - What are pages ?
+    - How does the internet works ?
+  # Databases : 
+    -
+    -
+    -
+    -
 ## Journey of system design
   
 # Folder structure :

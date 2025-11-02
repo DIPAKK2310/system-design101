@@ -22,7 +22,10 @@
   - Isolation & its levels
   - CAP Theorem
 ## Cache :
-  -
+  - What is Cache? (Redis,Memcashed) .
+  - Write Poliecies: Write back ,through & around . 
+  - Replacement Policies: LFU, LRU, Segment LRU etc .
+  - Content Delivery Network(CDNs) .
 # Journey of system design
   
 # Folder structure :

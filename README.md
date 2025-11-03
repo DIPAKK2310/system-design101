@@ -26,6 +26,11 @@
   - Write Poliecies: Write back ,through & around . 
   - Replacement Policies: LFU, LRU, Segment LRU etc .
   - Content Delivery Network(CDNs) .
+## Networking :
+  - TCP vs UDP
+  - What is http(1/2/3) & https
+  - Web sockets
+  - WebRTC & video streaming
 # Journey of system design
   
 # Folder structure :

@@ -31,6 +31,11 @@
   - What is http(1/2/3) & https
   - Web sockets
   - WebRTC & video streaming
+## Load Balancers :
+  - Load Balancing Algorithms (Stateless vs Statefull)
+  - Consistent Hashing 
+  - Proxy vs Reverse Proxy 
+  - Rate Limiting
 # Journey of system design
   
 # Folder structure :
